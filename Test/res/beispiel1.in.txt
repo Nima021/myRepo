@@ -1,0 +1,6 @@
+;Abmessung der Flaeche
+5 5
+;Startparzelle
+1 1
+;Eckparzellen der Hindernisse, ein Hinderniss pro Zeile
+;(in deisem Fall ohne Hindernisse)
