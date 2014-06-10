@@ -20,12 +20,7 @@ public class CBusinessT implements IBusinessT {
 	 * zuerst die Randbedingungen beruecksichtigen und laufe solange bis keine
 	 * der vier moegliche Richtungen sinnvoll sind.
 	 */
-	@Override
-	public void test(final String[] s){
-		for (int i = 0; i < s.length; i++){
-			s[i] = "daraa";
-		}
-	}
+	
 	@Override
 	public void UhrZeigerStrategie(final String[][] array, int zeile, int spalte) {
 		/**
